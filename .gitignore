@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.vcd
+*.out
+*.jou
+*.log
+.Xil/
+vivado/
