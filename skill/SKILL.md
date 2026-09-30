@@ -5,6 +5,10 @@ description: "Multi-agent framework for autonomous FPGA-based real-time HIL solv
 
 # HiLCoder
 
+Licensed under PolyForm Noncommercial 1.0.0 (noncommercial use only,
+including academic and public research use). See the LICENSE file in
+https://github.com/qcsui/HiLCoder
+
 Two coordinated LLM Agents that transform a circuit topology into a verified FPGA-based real-time HIL simulator.
 
 ```

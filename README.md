@@ -109,4 +109,9 @@ reference/                 verified implementations SKILL.md refers to
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+[PolyForm Noncommercial 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0/), see [LICENSE](LICENSE).
+
+Free for any noncommercial purpose. That explicitly includes universities,
+public research organizations and other educational or charitable
+institutions, regardless of how they are funded, so academic use needs no
+further permission. Commercial use is not granted by this license.
